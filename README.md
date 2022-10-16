@@ -1,2 +1,2 @@
 # MyKMrepository
-My work with git and GitHub in Linux
+My work with GitHub Actions and GitHub in Linux
